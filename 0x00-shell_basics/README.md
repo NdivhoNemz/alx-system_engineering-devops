@@ -16,4 +16,5 @@
 15. Move files with uppercase letters
 16. Delete all files with ~ in current working directory
 17. Create scripts that create directories
-18. List all files seperated by commas (,) 
+18. List all files seperated by commas (,)
+19. Create a magic file school.mgc that detects files with 'school' 
