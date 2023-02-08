@@ -1,2 +1,3 @@
-Print absolute pathname of current working directory
-Display contents list of current directory
+0. Print absolute pathname of current working directory.
+1. Display contents list of current directory.
+2. Change working dircectory to user's home.
