@@ -14,3 +14,4 @@
 13. Symbolic listing
 14. Copy all html files
 15. Move files with uppercase letters
+16. Delete all files with ~ in current working directory
