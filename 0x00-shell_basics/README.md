@@ -15,4 +15,5 @@
 14. Copy all html files
 15. Move files with uppercase letters
 16. Delete all files with ~ in current working directory
-17. Create scripts that create directories 
+17. Create scripts that create directories
+18. List all files seperated by commas (,) 
