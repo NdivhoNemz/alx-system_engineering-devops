@@ -11,3 +11,4 @@
 10. Getting back to previous working directory
 11. List all files
 12. I am a file 
+13. Symbolic listing
