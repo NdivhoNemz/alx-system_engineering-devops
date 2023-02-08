@@ -9,4 +9,5 @@
 8. Delete betty
 9. Delete my_first_directory
 10. Getting back to previous working directory
-11. List all files 
+11. List all files
+12. I am a file 
