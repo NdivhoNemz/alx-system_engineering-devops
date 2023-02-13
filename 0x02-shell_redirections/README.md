@@ -21,4 +21,7 @@
 20. Create a script that removes all letters c and C from input.
 21. Write a script that reverse its input.
 22. Write a script that displays all users and their home directories, sorted by users.
-23. Empty casks make the most noise
+23. Empty casks make the most noise.
+24. A gif is worth ten thousand words.
+25. Acrostic.
+26. The biggest fan.
